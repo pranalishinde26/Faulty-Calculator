@@ -1,5 +1,4 @@
-# Faulty-Calculator
-A fun JavaScript calculator that randomly gives wrong answers for debugging practice.
+
 # 🧮 Faulty Calculator
 
 A simple JavaScript-based calculator that intentionally produces incorrect results 10% of the time.
